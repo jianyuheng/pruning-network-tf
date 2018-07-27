@@ -1,2 +1,2 @@
 # pruning-network-tf
-Recreate some new algorithms of pruning network via TensorFlow.
+Reproduce some new algorithms of pruning network via TensorFlow.
